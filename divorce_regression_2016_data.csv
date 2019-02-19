@@ -1,0 +1,16 @@
+,,,,,,,,,,,,,,,,,
+Variable,Estimate,"Standard
+Error",P-Value,,,,,,,,,,,,,,
+Percent with High School Degree,"3,182","4,718",0.50,,,,,,,,,,,,,,
+Percent with Bachelor's Degree,"-13,463","6,448",0.04,,,,,,,,,,,,,,
+Percent with Advanced Degree,"14,212","8,982",0.12,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,Variable,Regression 1,,,Regression 2,,,Regression 3,,
+,,,,,,,,,Estimate,Std. Error,P-Value,Estimate,Std. Error,P-Value,Estimate,Std. Error,P-Value
+,,,,,,,,Marriage Rate,242,89,0.01,244,84,0.01,268,79,0.00
+,,,,,,,,Marriage Age (female),-364,150,0.02,-358,139,0.02,-256,68,0.00
+,,,,,,,,Households with Kids,"-5,152","3,662",0.17,"-6,014","2,781",0.04,"-4,382","1,981",0.03
+,,,,,,,,Unemployment,210,93,0.03,218,83,0.01,198,79,0.02
+,,,,,,,,Percent with bachelor's Degree,"1,743","2,670",0.52,"2,061","2,452",0.41,NA,NA,NA
+,,,,,,,,Birth Rate,-7.3,22,0.74,NA,NA,NA,NA,NA,NA
+,,,,,,,,Percent Sun,-259,"1,427",0.86,NA,NA,NA,NA,NA,NA
